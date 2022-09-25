@@ -1,0 +1,2 @@
+# Smart-Baby-Cradle-
+The current number of working mothers has greatly increased. Subsequently, baby care has become a daily challenge for many families. The parents cannot continuously monitor their babies’ conditions either in normal or abnormal situations. Therefore, an Internet of Things-based Smart Baby Cradle (IoT-SBC) is proposed as an efficient and low-cost IoT-based system for monitoring in real time.  
